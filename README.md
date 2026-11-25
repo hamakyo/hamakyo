@@ -30,6 +30,10 @@ I tend to build things that reduce repetitive work, preserve useful context, or 
 
 ## little shelf of projects
 
+### [home-infra-sanitized](https://github.com/hamakyo/home-infra-sanitized)
+
+Sanitized public blueprint for a self-hosted home infrastructure: ADRs, architecture diagrams, Ansible IaC, Docker stacks (Caddy, Authentik, Zabbix, NetBox, Fleet, pgvector RAG, n8n), and automated sanitization CI.
+
 ### [jev-starter](https://github.com/hamakyo/jev-starter)
 
 Typed, policy-driven decision workflows on top of TypeSafe AI Jev: confidence routing, fallbacks, evaluation, and RAG patterns for TypeScript apps.
