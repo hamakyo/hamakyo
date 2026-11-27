@@ -30,6 +30,10 @@ I tend to build things that reduce repetitive work, preserve useful context, or 
 
 ## little shelf of projects
 
+### [m365-change-radar](https://github.com/hamakyo/m365-change-radar)
+
+Tenant-aware change impact engine for Microsoft 365: evaluates public roadmap JSON/RSS updates against declarative TenantProfile configs (Entra ID, Intune, Microsoft Purview) with deterministic risk guardrails, 5-state triage, and TypeScript/Zod audit ledgers.
+
 ### [home-infra-sanitized](https://github.com/hamakyo/home-infra-sanitized)
 
 Sanitized public blueprint for a self-hosted home infrastructure: ADRs, architecture diagrams, Ansible IaC, Docker stacks (Caddy, Authentik, Zabbix, NetBox, Fleet, pgvector RAG, n8n), and automated sanitization CI.
